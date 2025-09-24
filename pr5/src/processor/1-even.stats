@@ -1,0 +1,4 @@
+python3 pipeline.py --stats 1-even.stats --start 0x80002000 --num_insts 150 1-even.r5o
+
+Total cycles: 150
+Total instructions: 71
